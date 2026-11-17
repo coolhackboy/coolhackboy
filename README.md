@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @coolhackboy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi, I build [PoYo API](https://poyo.ai) 👋
 
-<!---
-coolhackboy/coolhackboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+One API for the newest AI image and video models: Seedance, Kling, Veo, GPT Image, Nano Banana, Seedream and more.
+
+**Open source**
+
+- [Open Generative Studio](https://github.com/coolhackboy/open-generative-studio): a browser-only studio for 80+ image and video models. Bring your own key, self-host in minutes, MIT. [Live demo](https://coolhackboy.github.io/open-generative-studio/)
+- [PoyoAPI on GitHub](https://github.com/PoyoAPI): API guides, examples and prompt libraries for each model
+
+**Elsewhere:** [poyo.ai](https://poyo.ai) · [Docs](https://docs.poyo.ai) · [X @PoyoAPI](https://x.com/PoyoAPI) · [YouTube: Model Shelf](https://www.youtube.com/@PoyoAPI)
